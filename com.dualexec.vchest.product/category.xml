@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.dualexec.vchest.feature_1.0.0.qualifier.jar" id="com.dualexec.vchest.feature" version="1.0.0.qualifier">
+      <category name="vchest.category"/>
+   </feature>
+   <category-def name="vchest.category" label="VChest Category">
+      <description>
+         VChest Category
+      </description>
+   </category-def>
+</site>
